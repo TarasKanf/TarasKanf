@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarasKanf" alt="TarasKanf" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&count_private=true&show_icons=true" alt="TarasKanf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&count_private=true&show_icons=true&include_all_commits=true" alt="TarasKanf" /></p>
 
 
 <!--
