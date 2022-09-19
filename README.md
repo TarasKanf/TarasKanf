@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarasKanf" alt="TarasKanf" /> </p>
 
 <p href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&count_private=true&show_icons=true" />
 </p>
 <p href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasKanf&count_private=true&include_all_commits=true" />
