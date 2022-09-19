@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TarasKanf" alt="TarasKanf" /> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</p>
+<p href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasKanf&exclude_repo=github-readme-stats,anuraghazra.github.io" />
-</a>
+</p>
 
 <!--
 **TarasKanf/TarasKanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
