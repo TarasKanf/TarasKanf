@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Taras</h1>
+<h3 align="center">A passionate developer from Ukraine</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TarasKanf" alt="TarasKanf" /> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&show_icons=true" alt="TarasKanf" /></p>
+
 
 <!--
 **TarasKanf/TarasKanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
