@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TarasKanf&count_private=true&show_icons=true&include_all_commits=true" />
 </p>
 <p href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasKanf&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasKanf&count_private=true&include_all_commits=true" />
 </p>
 
 <!--
